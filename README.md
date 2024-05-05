@@ -56,8 +56,6 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on [iOS projects]  <a href="https://apps.apple.com/in/app/playdate-secure-family-chat/id1592518146" target="blank"><img src="https://img.shields.io/badge/P-Playdate-blue" alt="Playdate Badge"/><a/>
-
 - 🌱 I’m currently learning **SwiftUI, Objective-C**
 
 
