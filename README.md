@@ -20,10 +20,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"  alt="swift" width="40" height="40"/>
   </a>&nbsp;
 
-  <a href="https://developer.apple.com/xcode/swiftdata/" target="_blank" rel="noreferrer">
-       <img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png"  alt="swift" width="40" height="40"/>
+  <a href="  https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer">
+       <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"  alt="swiftUI" width="40" height="40"/>
   </a>&nbsp;
 
+  <a href="https://developer.apple.com/xcode/swiftdata/" target="_blank" rel="noreferrer">
+       <img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png"  alt="swiftdata" width="40" height="40"/>
+  </a>&nbsp;
   
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
