@@ -67,4 +67,4 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Manisankar7&show_icons=true&theme=radical" alt="Manisankar" width="75%"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Manisankar&show_icons=true&theme=radical" alt="Manisankar" width="75%"/></p>
